@@ -167,7 +167,7 @@ body {
 }
 #introtext .amp {
     position: relative;
-    top: 19px;
+    top: 18px;
     margin-left: -10px;
     font-size: 0.7em;
 }
@@ -180,6 +180,11 @@ body {
     margin-top: 10px;
     font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-size: 1em;
+}
+#introtext .location {
+    margin-top: 10px;
+    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-size: 1.5em;
 }
 
 /* ==============
@@ -366,7 +371,7 @@ section h2 {
     }
     #introtext .amp {
         position: relative;
-        top: 29px;
+        top: 18px;
         font-size: 0.9em;
         margin-left: -20px;
     }
@@ -782,17 +787,23 @@ section h2 {
 
 @font-face {
         font-family: 'EdwardianScrAltITCTT';
-        src: url('edwasai.eot');
-        src: url('edwasai.eot?#iefix') format('embedded-opentype'),
-                 url('edwasai.woff') format('woff'),
-                 url('edwasai.ttf') format('truetype'),
-                 url('edwasai.svg#edwasai') format('svg');
+        src: url('konstytucyja_091.otf');
+        font-weight: normal;
+    font-style: normal;
+
+
+#        src: url('edwasai.eot');
+#        src: url('edwasai.eot?#iefix') format('embedded-opentype'),
+#                 url('edwasai.woff') format('woff'),
+#                 url('edwasai.ttf') format('truetype'),
+#                 url('edwasai.svg#edwasai') format('svg');
         font-weight: normal;
         font-style: normal;
 }
 
 @font-face {
-        font-family: 'EdwardianScrAltITCTTBold';
+    font-family: 'EdwardianScrAltITCTTBold';
+
         src: url('edwasaib.eot');
         src: url('edwasaib.eot?#iefix') format('embedded-opentype'),
                  url('edwasaib.woff') format('woff'),
