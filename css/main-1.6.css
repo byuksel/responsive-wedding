@@ -143,9 +143,7 @@ body {
     padding: 10px;
     margin-bottom: 300px;
     background: black;
-    margin-left: 
-    margin-right:
-
+    
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
     -moz-border-radius: 8px;
@@ -164,7 +162,7 @@ body {
 
 #introtext .head-sarah {
     font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 5em;
+    font-size: 3em;
     line-height: 100%;
 }
 #introtext .amp {
@@ -244,8 +242,8 @@ nav ul li a::-moz-focus-inner {border:0;}
     padding: 5% 0;
 }
 .main header {
-    float: left;
-    width: 80%;
+    #float: left;
+    #width: 80%;
 }
 
 /* ==========================================================================
@@ -427,8 +425,8 @@ section h2 {
 
     .main header {
         margin-top: 10%;
-        float: left;
-        width: 40%;
+        #float: left;
+        #width: 40%;
         min-width: 320px;
     }
 
@@ -506,7 +504,7 @@ section h2 {
     .main header {
         margin-top: 10%;
         margin-bottom: 30%;
-        float: left;
+        #float: left;
         width: 100%;
     }
 
@@ -579,7 +577,7 @@ section h2 {
     .main header {
         margin-top: 4%;
         margin-bottom: 30%;
-        float: left;
+        #float: left;
         width: 100%;
     }
 
