@@ -140,9 +140,11 @@ body {
 }
 #introtext {
     display: block;
-    padding: 10px 0 10px 0;
+    padding: 10px;
     margin-bottom: 300px;
     background: black;
+    margin-left: 
+    margin-right:
 
     -ms-border-radius: 8px;
     -o-border-radius: 8px;
@@ -329,6 +331,10 @@ section h2 {
     font-size: 1em;
     line-height: 145%;
     padding: 0;
+}
+
+.mymap {
+    max-width: 100%;
 }
 
 /* ==========================================================================
