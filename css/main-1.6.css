@@ -331,6 +331,11 @@ section h2 {
     padding: 0;
 }
 
+.column .details {
+    font-size: 0.7em;
+    line-height: 90%;
+}
+
 .mymap {
     max-width: 100%;
 }
