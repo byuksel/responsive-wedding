@@ -196,7 +196,8 @@ nav {
 }
 
 nav ul {
-    font-family:"futura_ltbook",Arial,sans-serif;
+    font-family: "futura_ltbook", "HelveticaNeueLTStdRegular","HelveticaNeue", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+ 
     font-weight: normal;
     margin: 0;
     padding: 0;
