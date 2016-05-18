@@ -89,8 +89,8 @@ body {
 }
 
 #gmap iframe {
-    width: 93%;
-    height: 200px;
+    max-width: 93%;
+    #height: 200px;
 
     border: 10px solid #090909;
 
@@ -451,9 +451,6 @@ section h2 {
         font-size: 1.1em;
     }
 
-    #gmap iframe {
-        height: 400px;
-    }
 
 
 
