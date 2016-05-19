@@ -1,0 +1,12 @@
+{width: 100%; height: auto;}
+
+.sprite { background: url('sprite.jpg') no-repeat top left; width: 798px; height: 600px;  }
+.sprite.dugun-haritasi { width: 100%; height: auto; background-position: 0 0; width: 882px; height: 848px; }
+.sprite.kayseri-tarif { background-position: 0 -858px; width: 796px; }
+.sprite.kistar-harita { background-position: 0 -1468px; width: 802px; height: 604px; }
+.sprite.les-maisons-harita { background-position: 0 -2082px; height: 602px; }
+.sprite.nevsehir-tarif { background-position: 0 -2694px; width: 800px; }
+.sprite.pacha-harita { background-position: 0 -3304px; height: 598px; }
+.sprite.cappadoce { background-position: 0 -3912px; width: 217px; height: 95px; }
+.sprite.kapa-pic-1 { background-position: 0 -4017px; width: 1260px; height: 840px; }
+.sprite.maara_konak { background-position: 0 -4867px; width: 256px; height: 110px; } 
